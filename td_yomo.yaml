@@ -1,0 +1,5 @@
+name: batchWriter
+host: localhost
+port: 9999
+functions:
+  - name: td
